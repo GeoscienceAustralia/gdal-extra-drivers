@@ -8,16 +8,9 @@ set(GDAL_EXTRA_DRIVERS_SOURCES
     aeronavfaa/ograeronavfaadriver.cpp
     aeronavfaa/ograeronavfaadatasource.cpp
     aeronavfaa/ograeronavfaalayer.cpp
-    e00grid/e00griddataset.cpp
     htf/ogrhtfdriver.cpp
     htf/ogrhtfdatasource.cpp
     htf/ogrhtflayer.cpp
-    ignfheightasciigrid/ignfheightasciigrid.cpp
-    ntv1/ntv1dataset.cpp
-    openair/ogropenairdriver.cpp
-    openair/ogropenairdatasource.cpp
-    openair/ogropenairlayer.cpp
-    openair/ogropenairlabellayer.cpp
     segukooa/ogrsegukooadriver.cpp
     segukooa/ogrsegukooadatasource.cpp
     segukooa/ogrsegukooalayer.cpp

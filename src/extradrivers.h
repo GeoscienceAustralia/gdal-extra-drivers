@@ -34,14 +34,10 @@ extern "C"
 void RegisterOGRAeronavFAA();
 void RegisterOGRBNA();
 void RegisterOGRHTF();
-void RegisterOGROpenAir();
 void RegisterOGRSEGUKOOA();
 void RegisterOGRSEGY();
 void RegisterOGRSUA();
 void RegisterOGRXPlane();
-void GDALRegister_E00GRID();
-void GDALRegister_IGNFHeightASCIIGrid();
-void GDALRegister_NTv1();
 
 }
 
