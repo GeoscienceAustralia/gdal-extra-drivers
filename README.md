@@ -1,3 +1,16 @@
+GeoscienceAustralia/gdal-extra-drivers
+======================================
+
+This is a fork of gdal-extra-drivers that makes the changes necessary to build
+on GDAL 3.7 from conda-forge:
+
+- Removed the E00Grid, NTv1, and OpenAir drivers
+- Tweaked FindGDAL.cmake
+
+It's in use by NEAC systems (which use the BNA driver).
+
+Original readme follows.
+
 gdal-extra-drivers
 ==================
 
